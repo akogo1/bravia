@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/akogo1/bravia/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akogo1/bravia/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<div style="background:#fff;padding:10px;font-size:14px;font-family:Tahoma;"><img style="margin-right:8px;margin-left:8px;vertical-align: middle;border:none" src="/bravia/soccer.png" /><a style="font-size:14px;font-family:Tahoma; text-decoration: none;" href="http://playarena.pl/umbrella?city_id=139#leagueSeasonTable_14948"><span style="font-size:14px;font-family:Tahoma;color:#ea0404">Tabela 1 ligi Nike Playarena Bytom 2016/17</span></a><br /><div style="background: #fff;padding:10px;font-size:14px;font-family:Tahoma;"><p><span style="font-size:14px;">Komplet naszych spotkań w rozgrywkach 1 ligi Nike Playarena Bytom - sezon 2016/17:</span></p><br /><br /><br />
+<table style="width:100%;"><tr><td>
+<img style="margin-right:8px;margin-left:22px;vertical-align: middle;border:none" src="/bravia/double.png" /><span style="font-size:14px;font-family:Tahoma;">04.09 - Bravia - Extreme Team</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (5:9)</span><br /><br />
+<img style="margin-right:8px;margin-left:22px;vertical-align: middle;border:none" src="/bravia/double.png" /><span style="font-size:14px;font-family:Tahoma">11.09 - FC Rozbark - Bravia</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (10:5)</span><br /><br />
+<img style="margin-right:8px;margin-left:22px;vertical-align: middle;border:none" src="/bravia/double.png" /><span style="font-size:14px;font-family:Tahoma">18.09 - Bravia - Tornado Team</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (12:9)</span><br /><br />
+<img style="margin-right:8px;margin-left:22px;vertical-align: middle;border:none" src="/bravia/double.png" /><span style="font-size:14px;font-family:Tahoma">25.09 - Mon Equipe - Bravia</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (14:5)</span><br /><br />
+<img style="margin-right:8px;margin-left:22px;vertical-align: middle;border:none" src="/bravia/double.png" /><span style="font-size:14px;font-family:Tahoma">02.10 - Bravia - U.K Duma Bytomia 2012</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (16:7)</span><br /><br />
+<img style="margin-right:8px;margin-left:22px;vertical-align: middle;border:none" src="/bravia/double.png" /><span style="font-size:14px;font-family:Tahoma">09.10 - Konkubenci - Bravia</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (3:15)</span><br /><br />
+<img style="margin-right:8px;margin-left:22px;vertical-align: middle;border:none" src="/bravia/double.png" /><span style="font-size:14px;font-family:Tahoma">16.10 - Wolny termin</span><br /><br />
+<img style="margin-right:8px;margin-left:22px;vertical-align: middle;border:none" src="/bravia/double.png" /><span style="font-size:14px;font-family:Tahoma">23.10 - Bravia - Rasta</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (23:4)</span><br /><br />
+<img style="margin-right:8px;margin-left:22px;vertical-align: middle;border:none" src="/bravia/double.png" /><span style="font-size:14px;font-family:Tahoma">30.10 - Beuthen 09 - Bravia</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (5:5)</span><br /><br />
+<img style="margin-right:8px;margin-left:22px;vertical-align: middle;border:none" src="/bravia/double.png" /><span style="font-size:14px;font-family:Tahoma">06.11 - Bravia - Celebryci</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (17:2)</span><br /><br />
+<img style="margin-right:8px;margin-left:22px;vertical-align: middle;border:none" src="/bravia/double.png" /><span style="font-size:14px;font-family:Tahoma">13.11 - Valkiria - Bravia</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (8:15)</span><br /><br />
+<img style="margin-right:8px;margin-left:22px;vertical-align: middle;border:none" src="/bravia/double.png" /><span style="font-size:14px;font-family:Tahoma">20.11 - Bravia - AKS Spółka</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (23:7)</span><br /><br />
+<img style="margin-right:8px;margin-left:22px;vertical-align: middle;border:none" src="/bravia/double.png" /><span style="font-size:14px;font-family:Tahoma">27.11 - Miazga Łagiewniki - Bravia</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (5:24)</span><br /><br />
+<img style="margin-right:8px;margin-left:22px;vertical-align: middle;border:none" src="/bravia/double.png" /><span style="font-size:14px;font-family:Tahoma">04.12 - Bravia - Trawczynczyn Team</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (5:9)</span><br /><br />
+<img style="margin-right:8px;margin-left:22px;vertical-align: middle;border:none" src="/bravia/double.png" /><span style="font-size:14px;font-family:Tahoma;vertical-align: middle;">11.12 - Beer Team - Bravia</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (8:12)</span><br /><br />
+</td><td style="width:20px"></td>
+<td><img style="margin-right:8px;margin-left:14px;vertical-align: middle;border:none" src="/bravia/double.png" /><span style="font-size:14px;font-family:Tahoma;">05.03 - Extreme Team - Bravia</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (12:2)</span><br /><br />
+<img style="margin-right:8px;margin-left:14px;vertical-align: middle;border:none" src="/bravia/double.png" /><span style="font-size:14px;font-family:Tahoma">12.03 - Bravia - FC Rozbark</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (7:14)</span><br /><br />
+<img style="margin-right:8px;margin-left:14px;vertical-align: middle;border:none" src="/bravia/double.png" /><span style="font-size:14px;font-family:Tahoma">19.03 - Tornado Team - Bravia</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (13:16)</span><br /><br />
+<img style="margin-right:8px;margin-left:14px;vertical-align: middle;border:none" src="/bravia/double.png" /><span style="font-size:14px;font-family:Tahoma">26.03 - Bravia - Mon Equipe</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (9:7)</span><br /><br />
+<img style="margin-right:8px;margin-left:14px;vertical-align: middle;border:none" src="/bravia/double.png" /><span style="font-size:14px;font-family:Tahoma">02.04 - U.K Duma Bytomia 2012 - Bravia</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (6:12)</span><br /><br />
+<img style="margin-right:8px;margin-left:14px;vertical-align: middle;border:none" src="/bravia/double.png" /><span style="font-size:14px;font-family:Tahoma">09.04 - Bravia - Konkubenci</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (13:4)</span><br /><br />
+<img style="margin-right:8px;margin-left:14px;vertical-align: middle;border:none" src="/bravia/double1.png" /><span style="font-size:14px;font-family:Tahoma">16.04 - Wolny termin</span><br /><br />
+<img style="margin-right:8px;margin-left:14px;vertical-align: middle;border:none" src="/bravia/double1.png" /><span style="font-size:14px;font-family:Tahoma">23.04 - Rasta - Bravia</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (-:-)</span><br /><br />
+<img style="margin-right:8px;margin-left:14px;vertical-align: middle;border:none" src="/bravia/double1.png" /><span style="font-size:14px;font-family:Tahoma">30.04 - Bravia - Beuthen 09</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (-:-)</span><br /><br />
+<img style="margin-right:8px;margin-left:14px;vertical-align: middle;border:none" src="/bravia/double1.png" /><span style="font-size:14px;font-family:Tahoma">07.05 - Celebryci - Bravia</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (-:-)</span><br /><br />
+<img style="margin-right:8px;margin-left:14px;vertical-align: middle;border:none" src="/bravia/double1.png" /><span style="font-size:14px;font-family:Tahoma">14.05 - Bravia - Valkiria</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (-:-)</span><br /><br />
+<img style="margin-right:8px;margin-left:14px;vertical-align: middle;border:none" src="/bravia/double1.png" /><span style="font-size:14px;font-family:Tahoma">21.05 - AKS Spółka - Bravia</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (-:-)</span><br /><br />
+<img style="margin-right:8px;margin-left:14px;vertical-align: middle;border:none" src="/bravia/double1.png" /><span style="font-size:14px;font-family:Tahoma">28.05 - Bravia - Miazga Łagiewniki</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (-:-)</span><br /><br />
+<img style="margin-right:8px;margin-left:14px;vertical-align: middle;border:none" src="/bravia/double1.png" /><span style="font-size:14px;font-family:Tahoma">04.06 - Trawczynczyn Team - Bravia</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (-:-)</span><br /><br />
+<img style="margin-right:8px;margin-left:14px;vertical-align: middle;border:none" src="/bravia/double1.png" /><span style="font-size:14px;font-family:Tahoma;vertical-align: middle;">11.06 - Bravia - Beer Team</span><span style="font-size:14px;font-family:Tahoma;color:#ea0404"> (-:-)</span><br /><br /></td></tr></table><br /><br /></div></div>
